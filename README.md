@@ -1,7 +1,15 @@
-## Hi there 👋
+Soy desarrollador .Net con poco mas de 15 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones robustas y escalables. 
+A lo largo de mi carrera, he trabajado con tecnologías como C#, VBNet, ASP.Net, SQL Server, desarrollo de APIs, microservicios y patrones de diseño. 
+He creado soluciones, para diversos sectores, enfocándome en optimización y eficiencia. 
+Mi enfoque siempre ha sido entregar software de calidad, fácil de mantener y altamente funcional, aplicando arquitectura limpia.
 
 <!--
 **Alejandro-2502/Alejandro-2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Soy desarrollador .Net con poco mas de 15 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones robustas y escalables. 
+A lo largo de mi carrera, he trabajado con tecnologías como C#, VBNet, ASP.Net, SQL Server, desarrollo de APIs, microservicios y patrones de diseño. 
+He creado soluciones, para diversos sectores, enfocándome en optimización y eficiencia. 
+Mi enfoque siempre ha sido entregar software de calidad, fácil de mantener y altamente funcional, aplicando arquitectura limpia.
 
 Here are some ideas to get you started:
 
