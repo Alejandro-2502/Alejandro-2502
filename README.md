@@ -1,7 +1,6 @@
 Soy desarrollador .Net con poco mas de 15 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones robustas y escalables. 
-A lo largo de mi carrera, he trabajado con tecnologías como C#, VBNet, ASP.Net, SQL Server, desarrollo de APIs, microservicios y patrones de diseño. 
-He creado soluciones, para diversos sectores, enfocándome en optimización y eficiencia. 
-Mi enfoque siempre ha sido entregar software de calidad, fácil de mantener y altamente funcional, aplicando arquitectura limpia.
+A lo largo de mi carrera, he trabajado con diversas tecnologías. A fin de creacion de soluciones, para diversos sectores, enfocándome siempre, en la  optimización y eficiencia. 
+Mi enfoque siempre ha sido entregar software de calidad, fácil de mantener y altamente funcional, aplicando, patrones de diseños, arquitectura limpia y metodologias agiles.
 
 <!--
 
